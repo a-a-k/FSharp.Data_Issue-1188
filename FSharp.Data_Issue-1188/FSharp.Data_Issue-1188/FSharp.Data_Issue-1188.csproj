@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\Environment.csproj" />
     <ProjectReference Include="..\Scrappers\Scrappers.fsproj" />
   </ItemGroup>
 
