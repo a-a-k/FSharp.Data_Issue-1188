@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>FSharp.Data_Issue_1188</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Environment.csproj" />
+    <ProjectReference Include="..\Scrappers\Scrappers.fsproj" />
+  </ItemGroup>
+
+</Project>
